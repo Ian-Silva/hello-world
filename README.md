@@ -1,2 +1,4 @@
 # hello-world
-Programas feitos para preparação de prova acadêmica
+Olá humanos!
+
+Eu gosto de programar e criar novos sistemas. gosto de tomar chá e comer bolo.
